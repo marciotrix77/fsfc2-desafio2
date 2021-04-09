@@ -3,7 +3,7 @@
 <br>
 <br>
 
-<h4> Descrição do Desafio <h4>
+<h3> Descrição do Desafio </h3>
 
 Nesse desafio você trabalhará com backend e frontend juntos para consolidar os conhecimentos adquiridos nas aulas de Nest.js e React.js.
 
@@ -23,7 +23,7 @@ Para isso:
 
 Suba seu código em um repositório no github e o informe no campo abaixo.
 
-<h4> Como Rodar instalar Projeto? <h4>
+<h3> Como Rodar instalar Projeto? </h3>
 
 <p>Executar o seguinte comando após baixar esse repositório:</p>
 
@@ -34,6 +34,6 @@ $ sudo docker-compose up -d
 
 <p>Executar o seguinte comando após baixar esse repositório:</p>
 
-<h4> Como acessar a página do Projeto? <h4>
+<h3> Como acessar a página do Projeto? </h3>
 
 <p>Acesar a seguinte URL: http://lcoalhost/3000</p>
